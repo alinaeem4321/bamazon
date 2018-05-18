@@ -10,9 +10,9 @@ This app takes in orders from customers and depletes stock from the store's inve
  ******************* Customer View *******************************
 
 - Allows one to view items for sale.
-
+![](ScreenShots/Customer1.png)
 - Allows one to make a purchase on a particular item in the database.
-
+![](ScreenShots/Customer%202.png)
 ********************* Manager View ************************************
 
 - Allows one to view items for sale.
