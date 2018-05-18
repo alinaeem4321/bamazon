@@ -1,0 +1,24 @@
+{
+  "name": "bamazon-naeem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinaeem4321/bamazon.git"
+  },
+  "author": "naeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinaeem4321/bamazon/issues"
+  },
+  "homepage": "https://github.com/alinaeem4321/bamazon#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
