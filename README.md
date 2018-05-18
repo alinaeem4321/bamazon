@@ -20,9 +20,9 @@ This app takes in orders from customers and depletes stock from the store's inve
 - Allows manager to view items for sale.
 ![](ScreenShots/Manager%201.png)
 - Allows manager to view low inventory items (if none will return nothing).
-![](ScreenShots/Manager&203.png)
+![](ScreenShots/Manager%203.png)
 - Allows manager to add units to the invetory of any item.
-![](ScreenShots/Manager&204.png)
+![](ScreenShots/Manager%204.png)
 - Allows manager to add new products to the database.
-![](ScreenShots/Manager&205.png)
+![](ScreenShots/Manager%205.png)
 
